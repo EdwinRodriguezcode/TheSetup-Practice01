@@ -1,6 +1,6 @@
 <?php  
 /**  
-* Template Name: Home  
+* Template Name:about  
 *  
 * @package TheSetup-Practice01  
 *  
