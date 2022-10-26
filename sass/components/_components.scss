@@ -1,13 +1,14 @@
 /* Navigation
 --------------------------------------------- */
 @import "navigation/navigation";
-
+@import "navigation/footer";
 /* Posts and pages
 --------------------------------------------- */
 @import "content/posts-and-pages";
 @import "content/home";
-@import "about";
-@import "contact";
+@import "content/about";
+@import "content/contact";
+@import "content/hero";
 /* Comments
 --------------------------------------------- */
 @import "comments/comments";

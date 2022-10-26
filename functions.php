@@ -50,7 +50,7 @@ function the_set_up_practice01_setup() {
 	register_nav_menus(
 		array(
 			'menu-1' => esc_html__( 'Primary', 'the-set-up-practice01' ),
-		)
+			'footer-menu' => __('Footer Menu', 'thesetup-practice01'),)
 	);
 
 	/*

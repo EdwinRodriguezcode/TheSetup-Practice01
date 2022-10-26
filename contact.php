@@ -1,4 +1,5 @@
-<?: contact/**  
+<?: contact
+/**  
 * Template Name: contact  
 *  
 * @package TheSetup-Practice01  
